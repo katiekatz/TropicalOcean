@@ -1,0 +1,81 @@
+$background: #9dd9e0;
+$navbar: #8998f0;
+$navaccent: #a7f799;
+$header: #84F5E0;
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: $background;
+    cursor: url(/images/cursor.PNG) 0 15, auto;
+}
+
+.header {
+    background-color: $header;
+    width: 100%;
+    position: fixed;
+    height: 200px;
+    z-index: 1;
+}
+
+#title {
+    
+    h1, h2, h3, h4, h5, h6, p{
+        text-align: center;
+        color: black;
+        padding: 0px;
+    }
+    
+    h3 {
+        margin-top: 0px;
+    }
+    
+    a {
+        color: black;
+    }
+    
+    a:hover {
+        color: $navbar;
+        text-decoration: none;
+    }
+    
+}
+
+#navbar{
+    
+    background-color: $navbar;
+    
+    h4{
+        text-align: center;
+    }
+    
+    a {
+        color: black;
+    }
+    
+    a:hover{
+        color: $navaccent;
+        text-decoration: none;
+    }
+    
+}
+
+#marqueeGif {
+    width: 5%;
+}
+
+.infobody {
+    
+    padding-top: 225px;
+    margin-bottom: 50px;
+    z-index: 0;
+    
+    h3, h4 {
+        text-align: center;
+    }
+    
+    h5 {
+        color: white;
+    }
+    
+}

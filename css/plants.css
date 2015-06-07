@@ -1,0 +1,62 @@
+/* line 6, /Users/Katie/Desktop/Github/TropicalOcean/css/plants.scss */
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #9dd9e0;
+  cursor: url(/images/cursor.PNG) 0 15, auto; }
+
+/* line 13, /Users/Katie/Desktop/Github/TropicalOcean/css/plants.scss */
+.header {
+  background-color: #84F5E0;
+  width: 100%;
+  position: fixed;
+  height: 200px;
+  z-index: 1; }
+
+/* line 23, /Users/Katie/Desktop/Github/TropicalOcean/css/plants.scss */
+#title h1, #title h2, #title h3, #title h4, #title h5, #title h6, #title p {
+  text-align: center;
+  color: black;
+  padding: 0px; }
+/* line 29, /Users/Katie/Desktop/Github/TropicalOcean/css/plants.scss */
+#title h3 {
+  margin-top: 0px; }
+/* line 33, /Users/Katie/Desktop/Github/TropicalOcean/css/plants.scss */
+#title a {
+  color: black; }
+/* line 37, /Users/Katie/Desktop/Github/TropicalOcean/css/plants.scss */
+#title a:hover {
+  color: #8998f0;
+  text-decoration: none; }
+
+/* line 44, /Users/Katie/Desktop/Github/TropicalOcean/css/plants.scss */
+#navbar {
+  background-color: #8998f0; }
+  /* line 48, /Users/Katie/Desktop/Github/TropicalOcean/css/plants.scss */
+  #navbar h4 {
+    text-align: center; }
+  /* line 52, /Users/Katie/Desktop/Github/TropicalOcean/css/plants.scss */
+  #navbar a {
+    color: black; }
+  /* line 56, /Users/Katie/Desktop/Github/TropicalOcean/css/plants.scss */
+  #navbar a:hover {
+    color: #a7f799;
+    text-decoration: none; }
+
+/* line 63, /Users/Katie/Desktop/Github/TropicalOcean/css/plants.scss */
+#marqueeGif {
+  width: 5%; }
+
+/* line 67, /Users/Katie/Desktop/Github/TropicalOcean/css/plants.scss */
+.infobody {
+  padding-top: 225px;
+  margin-bottom: 50px;
+  z-index: 0; }
+  /* line 73, /Users/Katie/Desktop/Github/TropicalOcean/css/plants.scss */
+  .infobody h3, .infobody h4 {
+    text-align: center; }
+  /* line 77, /Users/Katie/Desktop/Github/TropicalOcean/css/plants.scss */
+  .infobody h5 {
+    color: white; }
+
+/*# sourceMappingURL=plants.css.map */
