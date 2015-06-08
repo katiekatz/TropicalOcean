@@ -54,5 +54,18 @@ body {
   /* line 72, /Users/Katie/Desktop/Github/TropicalOcean/css/landscape.scss */
   .infobody h3, .infobody h4 {
     text-align: center; }
+  /* line 76, /Users/Katie/Desktop/Github/TropicalOcean/css/landscape.scss */
+  .infobody h5 {
+    color: white; }
+  /* line 80, /Users/Katie/Desktop/Github/TropicalOcean/css/landscape.scss */
+  .infobody #main {
+    margin-bottom: 15px; }
+
+/* line 86, /Users/Katie/Desktop/Github/TropicalOcean/css/landscape.scss */
+.images p {
+  text-align: center; }
+/* line 90, /Users/Katie/Desktop/Github/TropicalOcean/css/landscape.scss */
+.images img {
+  margin-bottom: 7px; }
 
 /*# sourceMappingURL=landscape.css.map */
